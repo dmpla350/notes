@@ -25,11 +25,3 @@ Największe znaczenie ma **troposfera**, zachodzą w niej najważniejsze procesy
 
 ![https://www.researchgate.net/profile/Ulf_Michel2/publication/263279431/figure/tbl1/AS:668225016717318@1536328667539/Selected-flight-conditions-in-ICAO-Standard-Atmosphere_Q640.jpg](https://www.researchgate.net/profile/Ulf_Michel2/publication/263279431/figure/tbl1/AS:668225016717318@1536328667539/Selected-flight-conditions-in-ICAO-Standard-Atmosphere_Q640.jpg)
 ##
-##
-## MAW, ISA - International Standard Atmosphere
-
-- MAW to umowne określenie średnich wartości zasadniczych parametrów meteorologicznych umownej atmosfery, niezmienność jej danych umożliwia porównywanie obliczeń wykonywanych w różnych warunkach meteorologicznych.
-- Wartości MAW na wysokości 0m na MSL (średnim poziomie morza) wynoszą:
-
-![https://www.researchgate.net/profile/Ulf_Michel2/publication/263279431/figure/tbl1/AS:668225016717318@1536328667539/Selected-flight-conditions-in-ICAO-Standard-Atmosphere_Q640.jpg](https://www.researchgate.net/profile/Ulf_Michel2/publication/263279431/figure/tbl1/AS:668225016717318@1536328667539/Selected-flight-conditions-in-ICAO-Standard-Atmosphere_Q640.jpgdgdgg)
-## 
